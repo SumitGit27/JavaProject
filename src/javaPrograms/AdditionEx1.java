@@ -11,7 +11,7 @@ public class AdditionEx1 {
 	}
 	
 	public void addition(int a, int b) {
-		int sum = a+b;
+		int sum = (byte)(a+b);
 		System.out.println("Addition of two veriables= "+sum);
 	}
 }
