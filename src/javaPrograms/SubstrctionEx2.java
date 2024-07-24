@@ -11,7 +11,7 @@ public class SubstrctionEx2 {
 	}
 	
 	public void addition(int a, int b) {
-		int sum = a+b;
-		System.out.println("Substrction of two numbers= "+sum);
+		int Substrction = a+b;
+		System.out.println("Substrction of two numbers= "+Substrction);
 	}
 }
